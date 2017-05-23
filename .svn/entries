@@ -1,0 +1,73 @@
+10
+
+dir
+53
+https://acit@kana.svn.beanstalkapp.com/brandifi/trunk
+https://acit@kana.svn.beanstalkapp.com/brandifi
+
+
+
+2014-07-25T06:58:39.123475Z
+53
+imam_maulana
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+8806af5a-9858-4483-9985-6319c595f080
+
+authentication
+dir
+
+db
+dir
+
+engines
+dir
+
+templates
+dir
+
+tools
+dir
+
+tmp
+dir
+
+service
+dir
+
+landing_html
+dir
+
+public_html
+dir
+
+logs
+dir
+
+config
+dir
+
+dashboard_html
+dir
+
+admin_html
+dir
+
+client_app
+dir
+
+com
+dir
+

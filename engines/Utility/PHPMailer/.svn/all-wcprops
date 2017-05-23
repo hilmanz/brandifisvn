@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/brandifi/!svn/ver/2/trunk/engines/Utility/PHPMailer
+END
+LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/brandifi/!svn/ver/2/trunk/engines/Utility/PHPMailer/LICENSE
+END
+changelog.txt
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/brandifi/!svn/ver/2/trunk/engines/Utility/PHPMailer/changelog.txt
+END
+docs.ini
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/brandifi/!svn/ver/2/trunk/engines/Utility/PHPMailer/docs.ini
+END
+class.phpmailer.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/brandifi/!svn/ver/2/trunk/engines/Utility/PHPMailer/class.phpmailer.php
+END
+class.pop3.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/brandifi/!svn/ver/2/trunk/engines/Utility/PHPMailer/class.pop3.php
+END
+README.md
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/brandifi/!svn/ver/2/trunk/engines/Utility/PHPMailer/README.md
+END
+class.smtp.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/brandifi/!svn/ver/2/trunk/engines/Utility/PHPMailer/class.smtp.php
+END

@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js"> <!--<![endif]-->
+{$meta}
+<body>
+  <div id="body">
+    <div id="page">
+      <div id="sidebar">
+        <div id="navbar">
+            <ul>
+                {if $type_user eq '100' OR $type_user eq '666'}
+            
+ 
+                {/if}
+     
+              </ul>
+          </div>
+      </div><!-- end #sidebar -->
+		  {$header}
+        <div id="thecontent">
+             {$mainContent}
+        </div><!-- /#thecontent -->
+		  {$footer}
+    </div><!-- end #page -->
+  </div><!-- end #body -->    
+</body>
+</html>

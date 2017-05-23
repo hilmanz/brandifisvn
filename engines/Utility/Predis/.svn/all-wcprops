@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/brandifi/!svn/ver/2/trunk/engines/Utility/Predis
+END
+composer.json
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/brandifi/!svn/ver/2/trunk/engines/Utility/Predis/composer.json
+END
+LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/brandifi/!svn/ver/2/trunk/engines/Utility/Predis/LICENSE
+END
+VERSION
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/brandifi/!svn/ver/2/trunk/engines/Utility/Predis/VERSION
+END
+.gitignore
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/brandifi/!svn/ver/2/trunk/engines/Utility/Predis/.gitignore
+END
+TODO
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/brandifi/!svn/ver/2/trunk/engines/Utility/Predis/TODO
+END
+CHANGELOG.md
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/brandifi/!svn/ver/2/trunk/engines/Utility/Predis/CHANGELOG.md
+END
+.travis.yml
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/brandifi/!svn/ver/2/trunk/engines/Utility/Predis/.travis.yml
+END
+FAQ.md
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/brandifi/!svn/ver/2/trunk/engines/Utility/Predis/FAQ.md
+END
+phpunit.xml.dist
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/brandifi/!svn/ver/2/trunk/engines/Utility/Predis/phpunit.xml.dist
+END
+FAQ.PERFORMANCES.md
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/brandifi/!svn/ver/2/trunk/engines/Utility/Predis/FAQ.PERFORMANCES.md
+END
+phpunit.xml.travisci
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/brandifi/!svn/ver/2/trunk/engines/Utility/Predis/phpunit.xml.travisci
+END
+package.ini
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/brandifi/!svn/ver/2/trunk/engines/Utility/Predis/package.ini
+END
+README.md
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/brandifi/!svn/ver/2/trunk/engines/Utility/Predis/README.md
+END
+autoload.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/brandifi/!svn/ver/2/trunk/engines/Utility/Predis/autoload.php
+END

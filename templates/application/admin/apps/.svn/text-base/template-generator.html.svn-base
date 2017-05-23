@@ -1,0 +1,242 @@
+<div class="tittle-register">
+	<h2>DESIGN APLICATION</h2>
+    <div class="searchList">
+       <a class="tiptip backButton icon-undo2 Btn  fr" href="{$basedomain}project"  title="Back">&nbsp;</a> 
+    </div>
+</div> 
+<div class="row">
+	<div class="panel-primary">
+		<div id="userList" class="panel-body">     
+			<div id="tabs">
+                          <ul>
+                            <li><a href="#tabs-1">General Form</a></li>
+                            <li><a href="#tabs-2">Typografi</a></li>
+                            <li><a href="#tabs-3">Notification Message</a></li>
+                            <li><a href="#tabs-4">Background Images</a></li>
+                          </ul>
+                          <div id="tabs-1">
+                                <table id="designapp-list" class="table table-bordered table-hover tablesorter">
+                                    {foreach from=$datacustomize key=key item=val} 
+                                    <tr style="{if $val.n_status==0}background-color:lightsalmon{/if}" class="pleasegiverow_with{$val.id}">
+                                        
+                                        <td width="250">{$val.sections}</td> 
+                                        <td width="400">
+                                        <form id="form_with_id_{$val.id}" method="POST" action="{$basedomain}settings/savedesign" enctype="multipart/form-data"   >
+                                            
+                                            {if $val.type=='upload'} 
+                                            <img  width="200px" src="{$basedomainpath}public_html/public_assets/content/{$val.sections}/{$val.values}" class= "fl previewimages_with_id{$val.id}" /> 
+                                            <input type="file" name="{$val.updateon}" style="margin-left:10px;
+                                            vertical-align:bottom;" class="fl pleaseUpdates input_with_id{$val.id}"  value="" />
+                                            {/if}
+                                            {if $val.type=='color'} <input type="text" name="{$val.updateon}" value="{$val.values}" class="picker pleaseUpdates input_with_id{$val.id}" style="background-color:{$val.values}"/>
+                                            {/if}
+                                            {if $val.type=='size'} <input type="text" name="{$val.updateon}" value="{$val.values}" class="pleaseUpdates input_with_id{$val.id}"   />
+                                            {/if}
+                                            {if $val.type=='style'}
+                                                <select name="{$val.updateon}" class="pleaseUpdates input_with_id{$val.id}">
+                                                    <option value="{$val.values}" >{$val.values}</option>
+                                                </select>									 
+                                            {/if}
+                                            {if $val.type=='text'} <input type="text" name="{$val.updateon}" value="{$val.values}" class="fl pleaseUpdates input_with_id{$val.id}"   />  
+                                            {/if}
+                                            
+                                         {if $val.updateon==''}
+                                                Save On Field : 
+                                                    <select name="updateon" style="width:10%;text-align:right" class="pleaseUpdateOnBesideField" besideIdField ="input_with_id{$val.id}" designid ="{$val.id}"    >
+                                                        <option value="textfill" >- pick one -</option>
+                                                        <option value="images" >images</option>
+                                                        <option value="color" >color</option>
+                                                        <option value="size" >size</option>
+                                                        <option value="textfill" >textfill</option> 
+                                                        <option value="style" >style</option> 
+                                                    </select>	
+                                            {else}
+                                            <input type="hidden" name="updateon" value="{$val.updateon}"   />
+                                            {/if}
+                                            <input type="hidden" name="sections" value="{$val.sections}"   />
+                                            <input type="hidden" name="designid" value="{$val.id}"   />
+                                            <input type="hidden" name="brand" value="{$val.brand}"   />
+                                        </form>
+                                        </td>
+                                        <td style="vertical-align:middle;">
+                                            {if $val.n_status==0}
+                                                <a class="tiptip Btn tableIcon icon-switch  fl pleaseactivatedesign pleaseconnect_with_id{$val.id}" formid="form_with_id_{$val.id}" designid ="{$val.id}"  href="javascript:void(0)" updatetype="{$val.updateon}" title="Activated">&nbsp;</a>  
+                                                <a class="deleteIcon tiptip Btn tableIcon icon-remove2  fl pleasetrashtedesign pleaseconnect_with_id{$val.id}" formid="form_with_id_{$val.id}" designid ="{$val.id}"  href="javascript:void(0)" updatetype="{$val.updateon}" title="Trash">&nbsp;</a> 
+                                            {else}
+                                                <a id="updateBtn" class="tiptip tableIcon icon-loop2 Btn  fl pleaseconnect pleaseconnect_with_id{$val.id}" formid="form_with_id_{$val.id}" designid ="{$val.id}"  href="javascript:void(0)" updatetype="{$val.updateon}" title="Update">&nbsp;</a>  
+                                                <a class="deleteIcon tiptip tableIcon icon-close Btn  fl pleasecleardesign pleaseconnect_with_id{$val.id}" formid="form_with_id_{$val.id}" designid ="{$val.id}"  href="javascript:void(0)" updatetype="{$val.updateon}" title="Delete">&nbsp;</a> 
+                                             {/if}
+                                         </td>
+                                    </tr>
+                                     {/foreach}
+                                    
+                                 
+                                    </table>
+                          </div><!-- end #tabs-1 --> 
+                          <div id="tabs-2">
+                                        <form id="form_with_id_{$val.id}" method="POST" action="{$basedomain}settings/savedesign" enctype="multipart/form-data"   >
+                                <table id="designapp-list" class="table table-bordered table-hover tablesorter">
+                                    <tr style="{if $val.n_status==0}background-color:lightsalmon{/if}" class="pleasegiverow_with{$val.id}">
+                                        
+                                        <td width="250">Input Field Background</td> 
+                                        <td width="400">
+                                            <input type="text" name="{$val.updateon}" value="{$val.values}" class="picker pleaseUpdates input_with_id{$val.id}" style="background-color:{$val.values}"/>
+                                        </td>
+                                        <td style="vertical-align:middle;">
+                                            {if $val.n_status==0}
+                                                <a class="tiptip Btn tableIcon icon-switch button fl pleaseactivatedesign pleaseconnect_with_id{$val.id}" formid="form_with_id_{$val.id}" designid ="{$val.id}"  href="javascript:void(0)" updatetype="{$val.updateon}" title="Activated">&nbsp;</a>  
+                                                <a class="deleteIcon tiptip Btn tableIcon icon-remove2 button fl pleasetrashtedesign pleaseconnect_with_id{$val.id}" formid="form_with_id_{$val.id}" designid ="{$val.id}"  href="javascript:void(0)" updatetype="{$val.updateon}" title="Trash">&nbsp;</a> 
+                                            {else}
+                                                <a id="updateBtn" class="tiptip tableIcon icon-loop2 Btn button fl pleaseconnect pleaseconnect_with_id{$val.id}" formid="form_with_id_{$val.id}" designid ="{$val.id}"  href="javascript:void(0)" updatetype="{$val.updateon}" title="Update">&nbsp;</a>  
+                                                <a class="deleteIcon tiptip tableIcon icon-close Btn button fl pleasecleardesign pleaseconnect_with_id{$val.id}" formid="form_with_id_{$val.id}" designid ="{$val.id}"  href="javascript:void(0)" updatetype="{$val.updateon}" title="Delete">&nbsp;</a> 
+                                             {/if}
+                                         </td>
+                                    </tr>
+                                    <tr style="{if $val.n_status==0}background-color:lightsalmon{/if}" class="pleasegiverow_with{$val.id}">
+                                        
+                                        <td width="250">Input Field Disabled Background</td> 
+                                        <td width="400">
+                                          <input type="text" name="{$val.updateon}" value="{$val.values}" class="picker pleaseUpdates input_with_id{$val.id}" style="background-color:{$val.values}"/>
+                                        </td>
+                                        <td style="vertical-align:middle;">
+                                            {if $val.n_status==0}
+                                                <a class="tiptip Btn tableIcon icon-switch button fl pleaseactivatedesign pleaseconnect_with_id{$val.id}" formid="form_with_id_{$val.id}" designid ="{$val.id}"  href="javascript:void(0)" updatetype="{$val.updateon}" title="Activated">&nbsp;</a>  
+                                                <a class="deleteIcon tiptip Btn tableIcon icon-remove2 button fl pleasetrashtedesign pleaseconnect_with_id{$val.id}" formid="form_with_id_{$val.id}" designid ="{$val.id}"  href="javascript:void(0)" updatetype="{$val.updateon}" title="Trash">&nbsp;</a> 
+                                            {else}
+                                                <a id="updateBtn" class="tiptip tableIcon icon-loop2 Btn button fl pleaseconnect pleaseconnect_with_id{$val.id}" formid="form_with_id_{$val.id}" designid ="{$val.id}"  href="javascript:void(0)" updatetype="{$val.updateon}" title="Update">&nbsp;</a>  
+                                                <a class="deleteIcon tiptip tableIcon icon-close Btn button fl pleasecleardesign pleaseconnect_with_id{$val.id}" formid="form_with_id_{$val.id}" designid ="{$val.id}"  href="javascript:void(0)" updatetype="{$val.updateon}" title="Delete">&nbsp;</a> 
+                                             {/if}
+                                         </td>
+                                    </tr>
+                                    
+                                 
+                                    </table>
+                                        </form>
+                          </div><!-- end #tabs-2 --> 
+                          <div id="tabs-3">
+                            <p>Mauris eleifend est et turpis. Duis id erat. Suspendisse potenti. Aliquam vulputate, pede vel vehicula accumsan, mi neque rutrum erat, eu congue orci lorem eget lorem. Vestibulum non ante. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Fusce sodales. Quisque eu urna vel enim commodo pellentesque. Praesent eu risus hendrerit ligula tempus pretium. Curabitur lorem enim, pretium nec, feugiat nec, luctus a, lacus.</p>
+                            <p>Duis cursus. Maecenas ligula eros, blandit nec, pharetra at, semper at, magna. Nullam ac lacus. Nulla facilisi. Praesent viverra justo vitae neque. Praesent blandit adipiscing velit. Suspendisse potenti. Donec mattis, pede vel pharetra blandit, magna ligula faucibus eros, id euismod lacus dolor eget odio. Nam scelerisque. Donec non libero sed nulla mattis commodo. Ut sagittis. Donec nisi lectus, feugiat porttitor, tempor ac, tempor vitae, pede. Aenean vehicula velit eu tellus interdum rutrum. Maecenas commodo. Pellentesque nec elit. Fusce in lacus. Vivamus a libero vitae lectus hendrerit hendrerit.</p>
+                          </div><!-- end #tabs-3 --> 
+			</div><!-- end #tabs --> 
+		</div><!-- /.panel-body -->
+    </div><!-- /.panel-primary -->
+</div><!-- /.row -->
+
+{literal}
+	<script>
+		$('.picker').colpick({
+	layout:'hex',
+	submit:0,
+	colorScheme:'light',
+	onChange:function(hsb,hex,rgb,el,bySetColor) {
+		$(el).css('background-color','#'+hex);
+		// Fill the text box just if the color was set using the picker, and not the colpickSetColor function.
+		if(!bySetColor) $(el).val("#"+hex);
+	}
+}).keyup(function(){
+	$(this).colpickSetColor("#"+this.value);
+});
+	
+		$(document).on('change','.pleaseUpdates',function(){
+			var style = $(this).attr('style');
+			$(this).attr('style',style+' ;background-color: lightgreen;');
+			
+		});
+		
+		$(document).on('change','.pleaseUpdateOnBesideField',function(){
+			var besideIdField = $(this).attr('besideIdField'); 
+			var updateon = $(this).val();
+			var types = 'text';
+			if(updateon=='images') types = 'file'; 
+			$("."+besideIdField).attr('type',types); 
+			$("."+besideIdField).attr('name',updateon); 
+			
+		});
+		
+		$(document).on('click','.pleaseconnect',function(){
+					var objectelement = $(this);
+					var designid = $(this).attr('designid');
+					var updatetype = $(this).attr('updatetype');
+					var formid = $(this).attr('formid');
+					var updateoptions = {
+					dataType:  'json', 	
+					beforeSubmit: function(data) {  
+							$("#updateBtn").removeClass("icon-loop2");
+							objectelement.html('<div style="font-size:12px;">saving..</div>');
+					},
+						success : function(data) {		
+								 
+								 $(".input_with_id"+designid).css('background-color','white');
+								  //objectelement.html('update');
+								  objectelement.html('&nbsp;');
+								  $("#updateBtn").addClass("icon-loop2");
+								 alert(data.message);
+								if(updatetype=='images') $('.previewimages_with_id'+designid).attr('src',data.filename);
+									 
+						}
+					};					
+
+					$("#"+formid).ajaxForm(updateoptions);
+					
+					$("#"+formid).submit();
+		});	
+		
+		
+		$(document).on('click','.pleaseaddrowdesign',function(){
+					var objectelement = $(this);
+					  
+					var formid = $(this).attr('formid');
+					var updateoptions = {
+					dataType:  'json', 	
+					beforeSubmit: function(data) {  
+							objectelement.html('saving..');
+					},
+						success : function(data) {		
+								 
+							 
+								 objectelement.html('add');
+								 alert(data.message);
+							 
+								window.location = location.href;
+									 
+						}
+					};					
+
+					$("#"+formid).ajaxForm(updateoptions);
+					
+					$("#"+formid).submit();
+		});
+		
+		
+		$(document).on('click','.pleasecleardesign',function(){
+					var objectelement = $(this); 
+					var designid = $(this).attr('designid');
+					$('.pleasegiverow_with'+designid).html('<td> please wait .. </td>');
+					$.post(basedomain+'settings/clearDesign',{designid:designid},function(data){ 
+						alert(data.message);
+						window.location = location.href;
+					},"JSON");
+		});	
+		
+		$(document).on('click','.pleaseactivatedesign',function(){
+					var objectelement = $(this); 
+					var designid = $(this).attr('designid');
+					$('.pleasegiverow_with'+designid).html('<td> please wait .. </td>');
+					$.post(basedomain+'settings/activateDesign',{designid:designid},function(data){ 
+						alert(data.message);
+						window.location = location.href;
+					},"JSON");
+		});
+		
+		$(document).on('click','.pleasetrashtedesign',function(){
+					var objectelement = $(this); 
+					var designid = $(this).attr('designid');
+					$('.pleasegiverow_with'+designid).html('<td> please wait .. </td>');
+					$.post(basedomain+'settings/trashDesign',{designid:designid},function(data){ 
+						alert(data.message);
+						window.location = location.href;
+					},"JSON");
+		});
+	</script>
+{/literal}
+ 

@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/brandifi/!svn/ver/2/trunk/engines/Utility/tcpdf
+END
+encodings_maps.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/brandifi/!svn/ver/2/trunk/engines/Utility/tcpdf/encodings_maps.php
+END
+datamatrix.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/brandifi/!svn/ver/2/trunk/engines/Utility/tcpdf/datamatrix.php
+END
+tcpdf.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/brandifi/!svn/ver/2/trunk/engines/Utility/tcpdf/tcpdf.php
+END
+tcpdf.crt
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/brandifi/!svn/ver/2/trunk/engines/Utility/tcpdf/tcpdf.crt
+END
+sRGB.icc
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/brandifi/!svn/ver/2/trunk/engines/Utility/tcpdf/sRGB.icc
+END
+pdf417.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/brandifi/!svn/ver/2/trunk/engines/Utility/tcpdf/pdf417.php
+END
+spotcolors.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/brandifi/!svn/ver/2/trunk/engines/Utility/tcpdf/spotcolors.php
+END
+tcpdf.fdf
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/brandifi/!svn/ver/2/trunk/engines/Utility/tcpdf/tcpdf.fdf
+END
+2dbarcodes.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/brandifi/!svn/ver/2/trunk/engines/Utility/tcpdf/2dbarcodes.php
+END
+LICENSE.TXT
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/brandifi/!svn/ver/2/trunk/engines/Utility/tcpdf/LICENSE.TXT
+END
+tcpdf.p12
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/brandifi/!svn/ver/2/trunk/engines/Utility/tcpdf/tcpdf.p12
+END
+tcpdf_parser.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/brandifi/!svn/ver/2/trunk/engines/Utility/tcpdf/tcpdf_parser.php
+END
+qrcode.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/brandifi/!svn/ver/2/trunk/engines/Utility/tcpdf/qrcode.php
+END
+CHANGELOG.TXT
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/brandifi/!svn/ver/2/trunk/engines/Utility/tcpdf/CHANGELOG.TXT
+END
+unicode_data.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/brandifi/!svn/ver/2/trunk/engines/Utility/tcpdf/unicode_data.php
+END
+barcodes.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/brandifi/!svn/ver/2/trunk/engines/Utility/tcpdf/barcodes.php
+END
+README.TXT
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/brandifi/!svn/ver/2/trunk/engines/Utility/tcpdf/README.TXT
+END
+htmlcolors.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/brandifi/!svn/ver/2/trunk/engines/Utility/tcpdf/htmlcolors.php
+END
+tcpdf_filters.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/brandifi/!svn/ver/2/trunk/engines/Utility/tcpdf/tcpdf_filters.php
+END

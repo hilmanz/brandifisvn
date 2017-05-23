@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/brandifi/!svn/ver/2/trunk/templates/application/web/widgets
+END
+register-user-lists.html
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/brandifi/!svn/ver/2/trunk/templates/application/web/widgets/register-user-lists.html
+END
+add-modules.html
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/brandifi/!svn/ver/2/trunk/templates/application/web/widgets/add-modules.html
+END
+administrator-roles-lists.html
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/brandifi/!svn/ver/2/trunk/templates/application/web/widgets/administrator-roles-lists.html
+END
+administrator-user-permission-lists.html
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/brandifi/!svn/ver/2/trunk/templates/application/web/widgets/administrator-user-permission-lists.html
+END
+create-user.html
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/brandifi/!svn/ver/2/trunk/templates/application/web/widgets/create-user.html
+END
+navigation.html
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/brandifi/!svn/ver/2/trunk/templates/application/web/widgets/navigation.html
+END
+create-user-roles.html
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/brandifi/!svn/ver/2/trunk/templates/application/web/widgets/create-user-roles.html
+END
+downloaddata.html
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/brandifi/!svn/ver/2/trunk/templates/application/web/widgets/downloaddata.html
+END
+edit-user.html
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/brandifi/!svn/ver/2/trunk/templates/application/web/widgets/edit-user.html
+END
+administrator-user-permission.html
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/brandifi/!svn/ver/2/trunk/templates/application/web/widgets/administrator-user-permission.html
+END
+module-permission-list.html
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/brandifi/!svn/ver/2/trunk/templates/application/web/widgets/module-permission-list.html
+END
+shorter.html
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/brandifi/!svn/ver/2/trunk/templates/application/web/widgets/shorter.html
+END
+add-permission-user.html
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/brandifi/!svn/ver/2/trunk/templates/application/web/widgets/add-permission-user.html
+END
+administrator-user-hirarkies.html
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/brandifi/!svn/ver/2/trunk/templates/application/web/widgets/administrator-user-hirarkies.html
+END

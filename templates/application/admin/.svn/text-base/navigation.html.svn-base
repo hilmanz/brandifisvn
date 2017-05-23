@@ -1,0 +1,9 @@
+{if $user}
+<div id="SideNavigation">
+    <ul class="nav navbar-nav side-nav">
+        <li class="first-button"><a href="{$basedomain}sdk">EVENT 1</a></li>
+        <li class="second-button"><a href="{$basedomain}event">EVENT 2</a></li>
+        <li class="first-button"><a href="#">EVENT 3</a></li>
+	</ul>
+</div>
+{/if}

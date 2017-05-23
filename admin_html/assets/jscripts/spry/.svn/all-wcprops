@@ -1,0 +1,215 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/brandifi/!svn/ver/2/trunk/admin_html/assets/jscripts/spry
+END
+SpryDataExtensions.js
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/brandifi/!svn/ver/2/trunk/admin_html/assets/jscripts/spry/SpryDataExtensions.js
+END
+SpryValidationSelect.js
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/brandifi/!svn/ver/2/trunk/admin_html/assets/jscripts/spry/SpryValidationSelect.js
+END
+SpryXML.js
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/brandifi/!svn/ver/2/trunk/admin_html/assets/jscripts/spry/SpryXML.js
+END
+SpryDOMUtils.js
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/brandifi/!svn/ver/2/trunk/admin_html/assets/jscripts/spry/SpryDOMUtils.js
+END
+SpryUtils.js
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/brandifi/!svn/ver/2/trunk/admin_html/assets/jscripts/spry/SpryUtils.js
+END
+SpryAccordion.js
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/brandifi/!svn/ver/2/trunk/admin_html/assets/jscripts/spry/SpryAccordion.js
+END
+xpath.js
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/brandifi/!svn/ver/2/trunk/admin_html/assets/jscripts/spry/xpath.js
+END
+SpryImageLoader.js
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/brandifi/!svn/ver/2/trunk/admin_html/assets/jscripts/spry/SpryImageLoader.js
+END
+SpryData.js
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/brandifi/!svn/ver/2/trunk/admin_html/assets/jscripts/spry/SpryData.js
+END
+SpryValidationRadio.js
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/brandifi/!svn/ver/2/trunk/admin_html/assets/jscripts/spry/SpryValidationRadio.js
+END
+SpryAutoSuggest.js
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/brandifi/!svn/ver/2/trunk/admin_html/assets/jscripts/spry/SpryAutoSuggest.js
+END
+SpryValidationPassword.js
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/brandifi/!svn/ver/2/trunk/admin_html/assets/jscripts/spry/SpryValidationPassword.js
+END
+SpryDataSetShell.js
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/brandifi/!svn/ver/2/trunk/admin_html/assets/jscripts/spry/SpryDataSetShell.js
+END
+SpryNestedJSONDataSet.js
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/brandifi/!svn/ver/2/trunk/admin_html/assets/jscripts/spry/SpryNestedJSONDataSet.js
+END
+SpryHTMLPanel.js
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/brandifi/!svn/ver/2/trunk/admin_html/assets/jscripts/spry/SpryHTMLPanel.js
+END
+SpryRating.js
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/brandifi/!svn/ver/2/trunk/admin_html/assets/jscripts/spry/SpryRating.js
+END
+SpryDebug.js
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/brandifi/!svn/ver/2/trunk/admin_html/assets/jscripts/spry/SpryDebug.js
+END
+SpryValidationTextarea.js
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/brandifi/!svn/ver/2/trunk/admin_html/assets/jscripts/spry/SpryValidationTextarea.js
+END
+SpryMenuBar.js
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/brandifi/!svn/ver/2/trunk/admin_html/assets/jscripts/spry/SpryMenuBar.js
+END
+SpryTooltip.js
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/brandifi/!svn/ver/2/trunk/admin_html/assets/jscripts/spry/SpryTooltip.js
+END
+SprySlidingPanels.js
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/brandifi/!svn/ver/2/trunk/admin_html/assets/jscripts/spry/SprySlidingPanels.js
+END
+SpryCSVDataSet.js
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/brandifi/!svn/ver/2/trunk/admin_html/assets/jscripts/spry/SpryCSVDataSet.js
+END
+SpryValidationCheckbox.js
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/brandifi/!svn/ver/2/trunk/admin_html/assets/jscripts/spry/SpryValidationCheckbox.js
+END
+SpryValidationTextField.js
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/brandifi/!svn/ver/2/trunk/admin_html/assets/jscripts/spry/SpryValidationTextField.js
+END
+SpryValidationConfirm.js
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/brandifi/!svn/ver/2/trunk/admin_html/assets/jscripts/spry/SpryValidationConfirm.js
+END
+SpryCollapsiblePanel.js
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/brandifi/!svn/ver/2/trunk/admin_html/assets/jscripts/spry/SpryCollapsiblePanel.js
+END
+SpryNestedXMLDataSet.js
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/brandifi/!svn/ver/2/trunk/admin_html/assets/jscripts/spry/SpryNestedXMLDataSet.js
+END
+SpryHTMLDataSet.js
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/brandifi/!svn/ver/2/trunk/admin_html/assets/jscripts/spry/SpryHTMLDataSet.js
+END
+SpryPagedView.js
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/brandifi/!svn/ver/2/trunk/admin_html/assets/jscripts/spry/SpryPagedView.js
+END
+SpryJSONDataSet.js
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/brandifi/!svn/ver/2/trunk/admin_html/assets/jscripts/spry/SpryJSONDataSet.js
+END
+SpryEffects.js
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/brandifi/!svn/ver/2/trunk/admin_html/assets/jscripts/spry/SpryEffects.js
+END
+SpryNotifier.js
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/brandifi/!svn/ver/2/trunk/admin_html/assets/jscripts/spry/SpryNotifier.js
+END
+SpryTSVDataSet.js
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/brandifi/!svn/ver/2/trunk/admin_html/assets/jscripts/spry/SpryTSVDataSet.js
+END
+SpryURLUtils.js
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/brandifi/!svn/ver/2/trunk/admin_html/assets/jscripts/spry/SpryURLUtils.js
+END
+SpryTabbedPanels.js
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/brandifi/!svn/ver/2/trunk/admin_html/assets/jscripts/spry/SpryTabbedPanels.js
+END

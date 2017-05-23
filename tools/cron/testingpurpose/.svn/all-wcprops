@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/brandifi/!svn/ver/2/trunk/tools/cron/testingpurpose
+END
+curl_class.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/brandifi/!svn/ver/2/trunk/tools/cron/testingpurpose/curl_class.php
+END
+dashboardbot.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/brandifi/!svn/ver/2/trunk/tools/cron/testingpurpose/dashboardbot.php
+END
+db.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/brandifi/!svn/ver/2/trunk/tools/cron/testingpurpose/db.php
+END

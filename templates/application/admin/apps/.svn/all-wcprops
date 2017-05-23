@@ -1,0 +1,161 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/brandifi/!svn/ver/2/trunk/templates/application/admin/apps
+END
+sdk-pages.html
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/brandifi/!svn/ver/2/trunk/templates/application/admin/apps/sdk-pages.html
+END
+project-list.html
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/brandifi/!svn/ver/2/trunk/templates/application/admin/apps/project-list.html
+END
+create-user.html
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/brandifi/!svn/ver/2/trunk/templates/application/admin/apps/create-user.html
+END
+event-detail.html
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/brandifi/!svn/ver/2/trunk/templates/application/admin/apps/event-detail.html
+END
+event-flow.html
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/brandifi/!svn/ver/2/trunk/templates/application/admin/apps/event-flow.html
+END
+list-user.html
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/brandifi/!svn/ver/2/trunk/templates/application/admin/apps/list-user.html
+END
+find-what-missing.html
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/brandifi/!svn/ver/2/trunk/templates/application/admin/apps/find-what-missing.html
+END
+event-list.html
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/brandifi/!svn/ver/2/trunk/templates/application/admin/apps/event-list.html
+END
+sdk-list.html
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/brandifi/!svn/ver/2/trunk/templates/application/admin/apps/sdk-list.html
+END
+register-user-lists.html
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/brandifi/!svn/ver/2/trunk/templates/application/admin/apps/register-user-lists.html
+END
+registrant-management.html
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/brandifi/!svn/ver/2/trunk/templates/application/admin/apps/registrant-management.html
+END
+break-doubt.html
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/brandifi/!svn/ver/2/trunk/templates/application/admin/apps/break-doubt.html
+END
+template-generator.html
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/brandifi/!svn/ver/2/trunk/templates/application/admin/apps/template-generator.html
+END
+edit-new-brand.html
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/brandifi/!svn/ver/2/trunk/templates/application/admin/apps/edit-new-brand.html
+END
+entourage-report.html
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/brandifi/!svn/ver/2/trunk/templates/application/admin/apps/entourage-report.html
+END
+add-new-brand.html
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/brandifi/!svn/ver/2/trunk/templates/application/admin/apps/add-new-brand.html
+END
+event-generator.html
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/brandifi/!svn/ver/2/trunk/templates/application/admin/apps/event-generator.html
+END
+administrator-home.html
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/brandifi/!svn/ver/2/trunk/templates/application/admin/apps/administrator-home.html
+END
+sdk-add.html
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/brandifi/!svn/ver/2/trunk/templates/application/admin/apps/sdk-add.html
+END
+register-edit.html
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/brandifi/!svn/ver/2/trunk/templates/application/admin/apps/register-edit.html
+END
+event-add.html
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/brandifi/!svn/ver/2/trunk/templates/application/admin/apps/event-add.html
+END
+item-management.html
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/brandifi/!svn/ver/2/trunk/templates/application/admin/apps/item-management.html
+END
+changepassword.html
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/brandifi/!svn/ver/2/trunk/templates/application/admin/apps/changepassword.html
+END
+event-createFlow.html
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/brandifi/!svn/ver/2/trunk/templates/application/admin/apps/event-createFlow.html
+END
+facemaker-pages.html
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/brandifi/!svn/ver/2/trunk/templates/application/admin/apps/facemaker-pages.html
+END
+add-new-templates.html
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/brandifi/!svn/ver/2/trunk/templates/application/admin/apps/add-new-templates.html
+END

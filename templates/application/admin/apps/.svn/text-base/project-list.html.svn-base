@@ -1,0 +1,31 @@
+<div class="tittle-register">
+	<h2>Active Projects</h2>
+     <a href="{$basedomain}project/add" class="fr btn btn-danger"><span class="icon-plus">&nbsp;</span> Add New Projects</a>
+</div> 
+<div class="clear">  
+<div class="row ">
+   <table class="table table-bordered table-hover tablesorter">
+                <thead class="tittle-table">
+                  <tr>
+                    <th width="1">No</th>
+                    <th>Project </th>
+                    <th width="450">Action</th> 
+                  </tr>
+                </thead>
+                <tbody>
+				{foreach from=$projectList key=key item=val}
+                  <tr>
+                    <td>{$val.no}</td>
+                    <td>{$val.brandname}</td>
+                    <td>
+						<a href="{$basedomain}settings/designs?projects={$val.id}" class="button">Template</a>
+						<a href="{$basedomain}settings/event?projects={$val.id}" class="button" >Event</a>
+						<a href="{$basedomain}project/edit?id={$val.id}" class="button" >Edit</a>
+						<a href="{$basedomain}project/hapus?id={$val.id}" class="button" >Delete</a>
+					</td>
+				  </tr>
+				{/foreach}
+                </tbody>
+              </table>
+  </div><!-- /.clear -->          
+  </div><!-- /.clear -->          

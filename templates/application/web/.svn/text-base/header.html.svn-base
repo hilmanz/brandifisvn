@@ -1,0 +1,7 @@
+<div id="top">
+	<div class="wrapper">
+        <a id="logo" href="{$basedomain}">&nbsp;</a>
+        <a class="boxbtn" href="{$basedomain}logout.php"><span class="ico icon-lock">&nbsp;</span></a>
+        <a class="boxbtn" href="#">Hi, {$user->name}</a>
+    </div><!-- end .wrapper -->   
+</div><!-- end #top --> 

@@ -1,0 +1,143 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/brandifi/!svn/ver/2/trunk/com/admin/helper
+END
+noWhiteSpaceHelper.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/brandifi/!svn/ver/2/trunk/com/admin/helper/noWhiteSpaceHelper.php
+END
+activityHelper.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/brandifi/!svn/ver/2/trunk/com/admin/helper/activityHelper.php
+END
+memcache_helper.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/brandifi/!svn/ver/2/trunk/com/admin/helper/memcache_helper.php
+END
+AccessControlHelper.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/brandifi/!svn/ver/2/trunk/com/admin/helper/AccessControlHelper.php
+END
+passwordHelper.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/brandifi/!svn/ver/2/trunk/com/admin/helper/passwordHelper.php
+END
+searchHelper.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/brandifi/!svn/ver/2/trunk/com/admin/helper/searchHelper.php
+END
+saveEmailHelper.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/brandifi/!svn/ver/2/trunk/com/admin/helper/saveEmailHelper.php
+END
+loginHelper.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/brandifi/!svn/ver/2/trunk/com/admin/helper/loginHelper.php
+END
+reportHelper.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/brandifi/!svn/ver/2/trunk/com/admin/helper/reportHelper.php
+END
+newsHelper.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/brandifi/!svn/ver/2/trunk/com/admin/helper/newsHelper.php
+END
+settingHelper.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/brandifi/!svn/ver/2/trunk/com/admin/helper/settingHelper.php
+END
+cpmooHelper.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/brandifi/!svn/ver/2/trunk/com/admin/helper/cpmooHelper.php
+END
+dateHelper.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/brandifi/!svn/ver/2/trunk/com/admin/helper/dateHelper.php
+END
+userHelper.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/brandifi/!svn/ver/2/trunk/com/admin/helper/userHelper.php
+END
+sdkHelper.php
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/brandifi/!svn/ver/2/trunk/com/admin/helper/sdkHelper.php
+END
+SessionHelper.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/brandifi/!svn/ver/2/trunk/com/admin/helper/SessionHelper.php
+END
+sdkEventHelper.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/brandifi/!svn/ver/2/trunk/com/admin/helper/sdkEventHelper.php
+END
+registerHelper.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/brandifi/!svn/ver/2/trunk/com/admin/helper/registerHelper.php
+END
+botHelper.php
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/brandifi/!svn/ver/2/trunk/com/admin/helper/botHelper.php
+END
+uploadHelper.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/brandifi/!svn/ver/2/trunk/com/admin/helper/uploadHelper.php
+END
+administrationHelper.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/brandifi/!svn/ver/2/trunk/com/admin/helper/administrationHelper.php
+END
+permissionHelper.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/brandifi/!svn/ver/2/trunk/com/admin/helper/permissionHelper.php
+END
+activityReportHelper.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/brandifi/!svn/ver/2/trunk/com/admin/helper/activityReportHelper.php
+END

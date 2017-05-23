@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/brandifi/!svn/ver/2/trunk/engines/Utility/gplus/io
+END
+apiCacheParser.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/brandifi/!svn/ver/2/trunk/engines/Utility/gplus/io/apiCacheParser.php
+END
+apiRPC.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/brandifi/!svn/ver/2/trunk/engines/Utility/gplus/io/apiRPC.php
+END
+cacerts.pem
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/brandifi/!svn/ver/2/trunk/engines/Utility/gplus/io/cacerts.pem
+END
+apiIO.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/brandifi/!svn/ver/2/trunk/engines/Utility/gplus/io/apiIO.php
+END
+apiHttpRequest.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/brandifi/!svn/ver/2/trunk/engines/Utility/gplus/io/apiHttpRequest.php
+END
+apiCurlIO.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/brandifi/!svn/ver/2/trunk/engines/Utility/gplus/io/apiCurlIO.php
+END
+apiREST.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/brandifi/!svn/ver/2/trunk/engines/Utility/gplus/io/apiREST.php
+END
